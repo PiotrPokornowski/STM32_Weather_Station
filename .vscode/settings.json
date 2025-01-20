@@ -1,0 +1,12 @@
+{
+    "cortex-debug.variableUseNaturalFormat": false,
+    "files.associations": {
+        "compare": "c",
+        "stdio.h": "c",
+        "bmpxx80.h": "c",
+        "printer.h": "c",
+        "w5500_driver.h": "c",
+        "socket.h": "c",
+        "wizchip_conf.h": "c"
+    }
+}
